@@ -1,0 +1,13 @@
+NET "bank[0]" LOC = p127;
+NET "bank[1]" LOC = p131;
+NET "bank[2]" LOC = p132;
+NET "bank[3]" LOC = p133; 
+NET "display[0]" LOC = p137; #G
+NET "display[1]" LOC = p138; #F
+NET "display[2]" LOC = p139; #E
+NET "display[3]" LOC = p140; #D
+NET "display[4]" LOC = p141; #C
+NET "display[5]" LOC = p142; #B
+NET "display[6]" LOC = p143; #A
+NET "clk" LOC=p84;
+NET "dp" LOC=p134;
